@@ -4,9 +4,10 @@
 body{
     align-items: center;
 }
-.cal {
+.calculator {
     background-color: black;
+    margin: 100px;
 }
 .screen {
-    
+    background-color: grey;
 }
